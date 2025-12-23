@@ -1,5 +1,5 @@
 ## Stacks: A Bitcoin Layer for Smart Contracts
-
+-------
 
 Stacks is a Bitcoin layer for smart contracts; it enables smart contracts and decentralized applications to trustlessly use Bitcoin as an asset and settle transactions on the Bitcoin blockchain. 
 
